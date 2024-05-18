@@ -598,6 +598,9 @@ aside {
     .live-events-link {
         max-width: 255px;
     }
+    .live-events-item-link {
+        padding-right: 15px;
+    }
     .block-heading {
         background: transparent;
         padding: 20px 0;
